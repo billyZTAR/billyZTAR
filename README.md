@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##  I'm [Billy], a Student & Game Developer.
+##  I'm Billy, a Student & Game Developer.
 
 > Currently a student by day and a **Unity Developer** by night. I love solving the logic behind the gameplay and making sure every frame looks polished.
 
